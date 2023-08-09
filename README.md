@@ -13,8 +13,6 @@
 
 Laundrix is a web application designed to streamline and automate the daily transactions and operations of laundry shop businesses. It provides an online platform for laundry shop owners and staff to efficiently manage client transactions, track utilized products, generate detailed receipts, and produce printable daily transaction reports.
 
-This project was developed as a part of the requirements for [Your Course/Program Name] and aimed to address the challenges faced by laundry businesses in managing their day-to-day activities manually.
-
 ## Features
 
 - Efficiently tracks and manages customer transactions.
